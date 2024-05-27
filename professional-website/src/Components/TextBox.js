@@ -1,5 +1,5 @@
 import React from "react";
-import pfp from '../Assets/selfie.png';
+import pfp from '../Assets/blank.webp';
 
 const TextBox = () => {
     return (

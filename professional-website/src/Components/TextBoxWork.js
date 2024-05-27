@@ -4,23 +4,23 @@ const TextBoxWork = () => {
     return (
         <div className="text-box">
             <div id="text-box-text">
-                <h1>PROFESSIONAL EXPERIENCE</h1>
+                <h1 id="professional-experience">PROFESSIONAL EXPERIENCE</h1>
                 <div id="subsection-header">
-                    <h2 id="experience">TV Program Betting System - Web Development</h2>
+                    <h2 id="experience">TRAPNSTUDIO - Software Development Intern</h2>
                     <h2 id="experience-date">2024</h2>
                 </div>
-                <li id="experience-text">Collaborated with a team of 4 and developed a fully functional web application with a dynamic Javascript-based
-                    front-end, an AJAX-based communication. Dynamic database that stores back-end application state using</li>
-                <li id="experience-text">Developed an application enabling users to engage in discussions and recommendations about TV shows, while also
-                    facilitating the creation of bets on show outcomes.</li>
+                <li id="experience-text">Utilized Firebase's Realtime Database and ChatGPT's API system to streamline information retrieval for users less familiar with technology.</li>
+                <li id="experience-text">Proficient in frontend development with Flutter, a cutting-edge programming language tailored for multiplatform applications, emphasizing intuitive widget creation.</li>
+                <li id="experience-text">Engaged in cross-functional collaboration with diverse teams to refine specification designs.</li>
                 <div id="subsection-header">
-                    <h2 id="experience">TV Program Betting System - Web Development</h2>
-                    <h2 id="experience-date">2024</h2>
+                    <h2 id="experience">Telecom-Infrustructures</h2>
+                    <h2 id="experience-date">Summer 2024</h2>
                 </div>
-                <li id="experience-text">Collaborated with a team of 4 and developed a fully functional web application with a dynamic Javascript-based
-                    front-end, an AJAX-based communication. Dynamic database that stores back-end application state using</li>
-                <li id="experience-text">Developed an application enabling users to engage in discussions and recommendations about TV shows, while also
-                    facilitating the creation of bets on show outcomes.</li>
+                <li id="experience-text">In Progress</li>
+                <li id="experience-text">In Progress</li>
+                <li id="experience-text">In Progress</li>
+
+
             </div>
 
         </div >

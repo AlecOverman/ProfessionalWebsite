@@ -4,8 +4,11 @@ const Navbar = () => {
             <h1>Alec Overman</h1>
             <div className="links">
                 <a href="/">Home</a>
-                <a href="#text-box-text">Welcome</a>
-                <a href="#text-box-text3"></a>
+                <a href="#introduction-text">Welcome</a>
+                <a href="#heading-sphere">Skills</a>
+                <a href="#professional-experience">Work Experience</a>
+                <a href="#projects">Projects</a>
+                <a href="#connect-a">Contact</a>
             </div>
         </nav>
     );
