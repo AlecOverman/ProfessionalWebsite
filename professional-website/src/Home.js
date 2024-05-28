@@ -6,13 +6,17 @@ import TextBoxWork from './Components/TextBoxWork';
 import TextSphere from './Components/TextSphere';
 import TextBoxWorkProjects from './Components/TextBoxProject';
 import Connections from './Components/Connections';
+import TextBoxWorkEducation from './Components/TextBoxEducation';
+import TextBoxSkills from './Components/TextBoxSkills';
 const Home = () => {
     return (
         <div>
             <ParallaxAboutOne />
             <TextBox />
             <ParallaxAboutTwo />
-            <TextSphere />
+            <TextBoxWorkEducation />
+            <ParallaxAboutTwo />
+            <TextBoxSkills />
             <ParallaxAboutTwo />
             <TextBoxWork />
             <ParallaxAboutThree />

@@ -174,7 +174,7 @@ p {
 }
 
 #subsection-header {
-  padding: 2vw;
+  /* padding: 2vw; */
   display: flex;
   margin: 2vw 0 0 0;
 }
@@ -191,4 +191,8 @@ p {
 #text-box-text {
   border-radius: 100%;
   padding: 5vmax;
+}
+
+h1 {
+  text-decoration: underline;
 }
