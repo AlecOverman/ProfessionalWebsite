@@ -1,5 +1,6 @@
 import git from '../Assets/social.png';
 import link from '../Assets/link.png';
+import resume from '../Assets/resume.png';
 const Connections = () => {
     return (
         <nav className="navbar">
@@ -13,6 +14,10 @@ const Connections = () => {
                 <a href="https://github.com/GitAlecoutofHere">
                     <img src={git} width="30" height="30"
                         alt="Github of Alec Overman"></img>
+                </a>
+                <a href="https://drive.google.com/file/d/1lN7WJNUiTw621ig85pZMf-LANBKUSJyy/view?usp=sharing">
+                    <img src={resume} width="30" height="30"
+                        alt="Resume of Alec Overman"></img>
                 </a>
             </div>
         </nav >
